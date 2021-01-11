@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "h7wGmM5TTQWv7762q3ARfE6bixgW5TI5Dy+CZ5Il6Zdt/9/Gh0ZGsTq2m/4sSXxkjY9vWE44rwwUFIwyDhqICQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\leand\\OneDrive\\Área de Trabalho\\MVC_aspnet\\MVC_aspnet.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\leand\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\3.1.0\\microsoft.windowsdesktop.app.ref.3.1.0.nupkg.sha512"
+  ],
+  "logs": []
+}
